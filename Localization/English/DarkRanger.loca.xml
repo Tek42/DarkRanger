@@ -5,11 +5,15 @@
     <content contentuid="ha066e989bac24002ac43ee1ae08c5bd28801" version="1">Necrotic Adept</content>
     <content contentuid="he158481815a74f0f9cfe5549993df17d4b73" version="1">Spells you cast ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Necrotic damage. In addition, when you deal Necrotic damage with a spell, you cannot roll a [1].</content>
     <content contentuid="h02df678689c2438ea8bb970666e71a265478" version="1">Ilmater's Shot</content>
-    <content contentuid="hb8bdc903b6d04c65bf06a4dc72a9e7811dgf" version="1">Does weapon damage plus [2] and target cannot regain &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; for 1 turn.</content>
+    <content contentuid="hb8bdc903b6d04c65bf06a4dc72a9e7811dgf" version="1">Targets cannot regain &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; for 1 turn.</content>
     <content contentuid="hf26d7c5189134fbea5b4e0a2251fbc687175" version="1">Black Arrow</content>
-    <content contentuid="hb2d144cd0dc0482cbafc81c2892d7512476a" version="1">Does weapon damage plus [2] and also applies a sickness that causes the target to explode on death causing necrotic damage in a 3m radius.</content>
+    <content contentuid="hb2d144cd0dc0482cbafc81c2892d7512476a" version="1">An attack that applies a sickness that causes the target to explode on death. This explosion causes necrotic damage in a 3m radius and heals you.</content>
     <content contentuid="hf8608fefee154f739c08c1d46188cfe2f953" version="1">Black Arrow Sickness</content>
-    <content contentuid="hfbfec35d24564beab7b8374178c80c0e8d25" version="1">If the target dies while under this effect it will explode causing damage to all surrounding units within 3m.</content>
+    <content contentuid="hfbfec35d24564beab7b8374178c80c0e8d25" version="1">If the target dies while under this effect it will explode causing necrotic damage to all surrounding units within 3m. You will also be healed.</content>
+    <content contentuid="he412d9d2bcb9480f90d7839af8edcaa97b2a" version="1">Black Arrow Explosion</content>
+    <content contentuid="h503688164fa84d8fad37c741297ca8d3e57f" version="1">The target of your Black Arrow will explode on death.</content>
+    <content contentuid="hc286f2c27f844fc289572c73e43c04371c14" version="1">Toggle off to disable the explosion on death. You will still regain health.</content>
     <content contentuid="h2b8af329e0844c0b97e39f572bc80fa83gg4" version="1">Feral Senses</content>
     <content contentuid="h58f9c03cd0a84c0eb2a7d79214b0862f7363" version="1">You are able to see &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; creatures up to [1] distance.</content>
+
 </contentList>
