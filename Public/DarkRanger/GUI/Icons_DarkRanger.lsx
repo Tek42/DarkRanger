@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="322"/>
+    <region id="IconUVList">
+        <node id="root">
+            <children>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DR_BlackArrowEffect_Icon"/>
+                    <attribute id="U1" type="float" value="0.0"/>
+                    <attribute id="U2" type="float" value="0.1"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.1"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DR_BlackArrowEffect_Icon_P"/>
+                    <attribute id="U1" type="float" value="0.1"/>
+                    <attribute id="U2" type="float" value="0.2"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.1"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Gunslinger_KillHeart"/>
+                    <attribute id="U1" type="float" value="0.2"/>
+                    <attribute id="U2" type="float" value="0.3"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.1"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Aura_Gunslinger"/>
+                    <attribute id="U1" type="float" value="0.3"/>
+                    <attribute id="U2" type="float" value="0.4"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.1"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Gunslinger_Focus"/>
+                    <attribute id="U1" type="float" value="0.4"/>
+                    <attribute id="U2" type="float" value="0.5"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.1"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Inspiring_Palaver"/>
+                    <attribute id="U1" type="float" value="0.5"/>
+                    <attribute id="U2" type="float" value="0.6"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.1"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Offhand_Reload"/>
+                    <attribute id="U1" type="float" value="0.6"/>
+                    <attribute id="U2" type="float" value="0.7"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.1"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Mainhand_Reload"/>
+                    <attribute id="U1" type="float" value="0.7"/>
+                    <attribute id="U2" type="float" value="0.8"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.1"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Full_Reload"/>
+                    <attribute id="U1" type="float" value="0.8"/>
+                    <attribute id="U2" type="float" value="0.9"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.1"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Reload_Trick"/>
+                    <attribute id="U1" type="float" value="0.9"/>
+                    <attribute id="U2" type="float" value="1.0"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.1"/>
+                </node>
+                <node id="IconUV"> line 2
+                    <attribute id="MapKey" type="FixedString" value="GS_FTH_MH"/>
+                    <attribute id="U1" type="float" value="0.0"/>
+                    <attribute id="U2" type="float" value="0.1"/>
+                    <attribute id="V1" type="float" value="0.1"/>
+                    <attribute id="V2" type="float" value="0.2"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Zone_GS_HV_Round"/>
+                    <attribute id="U1" type="float" value="0.1"/>
+                    <attribute id="U2" type="float" value="0.2"/>
+                    <attribute id="V1" type="float" value="0.1"/>
+                    <attribute id="V2" type="float" value="0.2"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Gunslinger_DW_Attack"/>
+                    <attribute id="U1" type="float" value="0.2"/>
+                    <attribute id="U2" type="float" value="0.3"/>
+                    <attribute id="V1" type="float" value="0.1"/>
+                    <attribute id="V2" type="float" value="0.2"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="GS_MH_ATTACK"/>
+                    <attribute id="U1" type="float" value="0.3"/>
+                    <attribute id="U2" type="float" value="0.4"/>
+                    <attribute id="V1" type="float" value="0.1"/>
+                    <attribute id="V2" type="float" value="0.2"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="GS_OH_ATTACK"/>
+                    <attribute id="U1" type="float" value="0.4"/>
+                    <attribute id="U2" type="float" value="0.5"/>
+                    <attribute id="V1" type="float" value="0.1"/>
+                    <attribute id="V2" type="float" value="0.2"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Projectile_OG_Banishing_Shot"/>
+                    <attribute id="U1" type="float" value="0.5"/>
+                    <attribute id="U2" type="float" value="0.6"/>
+                    <attribute id="V1" type="float" value="0.1"/>
+                    <attribute id="V2" type="float" value="0.2"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="GS_Disarming_Attack"/>
+                    <attribute id="U1" type="float" value="0.6"/>
+                    <attribute id="U2" type="float" value="0.7"/>
+                    <attribute id="V1" type="float" value="0.1"/>
+                    <attribute id="V2" type="float" value="0.2"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Projectile_GS_Trickshot"/>
+                    <attribute id="U1" type="float" value="0.7"/>
+                    <attribute id="U2" type="float" value="0.8"/>
+                    <attribute id="V1" type="float" value="0.1"/>
+                    <attribute id="V2" type="float" value="0.2"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="GB_Fang"/>
+                    <attribute id="U1" type="float" value="0.8"/>
+                    <attribute id="U2" type="float" value="0.9"/>
+                    <attribute id="V1" type="float" value="0.1"/>
+                    <attribute id="V2" type="float" value="0.2"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="GB_Claw"/>
+                    <attribute id="U1" type="float" value="0.9"/>
+                    <attribute id="U2" type="float" value="1.0"/>
+                    <attribute id="V1" type="float" value="0.1"/>
+                    <attribute id="V2" type="float" value="0.2"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="GB_Talon"/>
+                    <attribute id="U1" type="float" value="0.0"/>
+                    <attribute id="U2" type="float" value="0.1"/>
+                    <attribute id="V1" type="float" value="0.2"/>
+                    <attribute id="V2" type="float" value="0.3"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="These_Boots"/>
+                    <attribute id="U1" type="float" value="0.0"/>
+                    <attribute id="U2" type="float" value="0.1"/>
+                    <attribute id="V1" type="float" value="0.2"/>
+                    <attribute id="V2" type="float" value="0.3"/>
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="TextureAtlasInfo">
+        <node id="root">
+            <children>
+                <node id="TextureAtlasIconSize">
+                    <attribute id="Height" type="int32" value="128"/>
+                    <attribute id="Width" type="int32" value="128"/>
+                </node>
+                <node id="TextureAtlasPath">
+                    <attribute id="Path" type="string" value="Assets/Textures/Icons/Icons_DarkRanger.DDS"/>
+                    <attribute id="UUID" type="FixedString" value="ae7d01b4-c23a-4523-9adb-23cdb6ae5acf"/>
+                </node>
+                <node id="TextureAtlasTextureSize">
+                    <attribute id="Height" type="int32" value="1280"/>
+                    <attribute id="Width" type="int32" value="1280"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
