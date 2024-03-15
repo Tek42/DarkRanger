@@ -6,7 +6,7 @@
       <children>
         <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="DarkRanger Level 3" />
-                    <attribute id="Spells" type="LSString" value="Shout_FalseLife;Projectile_Black_Arrow;Projectile_SneakAttack" />
+                    <attribute id="Spells" type="LSString" value="Shout_FalseLife;Projectile_Black_Arrow;Projectile_SneakAttack;Projectile_ShadowfellShot" />
                     <attribute id="UUID" type="guid" value="d67d47b3-fc3a-4722-8cce-38a7340b8d76" />
 				</node>
         <node id="SpellList">

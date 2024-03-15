@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
 	<content contentuid="h331d0e8c44744d6db0f42e7fc68c3196223c" version="1">Dark Ranger</content>
-	<content contentuid="ha2f126dee45940728a89fcfaa4eeded81c57" version="1">Dark Ranger desc.</content>
+	<content contentuid="ha2f126dee45940728a89fcfaa4eeded81c57" version="1">Dark rangers are similar to their high elven cousins but focus on shadowcraft more than nature. Dark rangers are silent and invisible stalkers of the shadows, felling unsuspecting opponents with a single arrow. Dark rangers still favor the bow as the ultimate weapon, using the same arts that Quel'Thalas taught for millennia. Their spells work with manipulating the essences of life and death, as well as various horrible curses and mind-enslaving abilities.</content>
     <content contentuid="ha066e989bac24002ac43ee1ae08c5bd28801" version="1">Necrotic Adept</content>
     <content contentuid="he158481815a74f0f9cfe5549993df17d4b73" version="1">Spells you cast ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Necrotic damage. In addition, when you deal Necrotic damage with a spell, you cannot roll a [1].</content>
     <content contentuid="h02df678689c2438ea8bb970666e71a265478" version="1">Ilmater's Shot</content>
@@ -15,5 +15,6 @@
     <content contentuid="hc286f2c27f844fc289572c73e43c04371c14" version="1">Toggle off to disable the explosion on death. You will still regain health.</content>
     <content contentuid="h2b8af329e0844c0b97e39f572bc80fa83gg4" version="1">Feral Senses</content>
     <content contentuid="h58f9c03cd0a84c0eb2a7d79214b0862f7363" version="1">You are able to see &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; creatures up to [1] distance.</content>
-
+	<content contentuid="h41b00c98973d41d193a61d0a623f6fbag4f0" version="1">Valkrana's Shadowfell Shot</content>
+    <content contentuid="hbf4573006be444d09404aacedcb8f5ac79d6" version="1">Fire [2] projectiles straight from the Shadowfell. Each deals [1]. Advantage against targets that are heavily obscured or in a Negative Energy Field.</content>
 </contentList>
