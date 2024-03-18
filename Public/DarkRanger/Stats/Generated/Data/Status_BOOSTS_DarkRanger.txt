@@ -1,0 +1,8 @@
+new entry "VAMPIRIC_SHOT"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h4b9d6e0c3e5941ed9bebb3442802d83eagd6;1"
+data "Description" "h23609d51fa4d4c278e63c20ca07fed2bg824;1"
+data "Icon" "Spell_Necromancy_VampiricTouch"
+data "StackId" "VAMPIRIC_SHOT"
+data "Boosts" "UnlockSpell(Projectile_VampiricShot_Free)"

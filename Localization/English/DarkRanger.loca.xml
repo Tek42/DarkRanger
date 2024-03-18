@@ -17,4 +17,11 @@
     <content contentuid="h58f9c03cd0a84c0eb2a7d79214b0862f7363" version="1">You are able to see &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; creatures up to [1] distance.</content>
 	<content contentuid="h41b00c98973d41d193a61d0a623f6fbag4f0" version="1">Valkrana's Shadowfell Shot</content>
     <content contentuid="hbf4573006be444d09404aacedcb8f5ac79d6" version="1">Fire [2] projectiles straight from the Shadowfell. Each deals [1]. Advantage against targets that are heavily obscured or in a Negative Energy Field.</content>
+    <content contentuid="h3ac08d747b0d4d8cb8c0844e863a138db6f0" version="1">Necrotic Shot</content>
+    <content contentuid="h5df3541c449e40fa84b702f225ec8bf646g8" version="1">Your shot fires necrotic energy to harm the living or heal the undead.</content>
+    <content contentuid="h4b9d6e0c3e5941ed9bebb3442802d83eagd6" version="1">Vampiric Shot</content>
+    <content contentuid="h23609d51fa4d4c278e63c20ca07fed2bg824" version="1">Can recast &lt;LSTag Type="Spell" Tooltip="Projectile_VampiricShot_Free"&gt;Vampiric Shot&lt;/LSTag&gt; without expending a spell slot.</content>
+    <content contentuid="h35941289b2a546f9b306356cfe6ccb06d03d" version="1">Fire a shot at an enemy to siphon their life force and regain half as many &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.</content>
+    <content contentuid="h26649f41b0814ca68f2c32d8e807c55d3330" version="1">For 10 turns, you can use Vampiric Shot again without expending an additional spell slot.</content>
 </contentList>
+

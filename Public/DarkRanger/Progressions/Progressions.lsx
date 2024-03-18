@@ -5,20 +5,6 @@
         <node id="root">
             <children>
                 <node id="Progression">
-                    <attribute id="Level" type="uint8" value="1"/>
-                    <attribute id="Name" type="LSString" value="DarkRanger"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="c53d8c2c-3dd5-41b6-a7ae-b5a349bffd71"/>
-                    <attribute id="UUID" type="guid" value="e370d925-a468-4cd2-866d-23ac2f1b5faa"/>
-                </node>
-                <node id="Progression">
-                    <attribute id="Level" type="uint8" value="2"/>
-                    <attribute id="Name" type="LSString" value="DarkRanger"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="c53d8c2c-3dd5-41b6-a7ae-b5a349bffd71"/>
-                    <attribute id="UUID" type="guid" value="442b70ca-f918-443a-9aa5-485c8626b864"/>
-                </node>
-                <node id="Progression">
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="DarkRanger"/>
                     <attribute id="PassivesAdded" type="LSString" value="DreadAmbusher;SuperiorDarkvision;DR_BLACKARROWEFFECT"/>
@@ -28,10 +14,19 @@
                     <attribute id="UUID" type="guid" value="21aa1731-74c0-4126-885d-5d532ffe02b6"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="Name" type="LSString" value="DarkRanger"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(9a306e9f-8c7a-45d3-a261-3655769ee34b,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="c53d8c2c-3dd5-41b6-a7ae-b5a349bffd71"/>
+                    <attribute id="UUID" type="guid" value="7a975261-b2dd-4df9-8131-d36e82ba6a18"/>
+                </node>
+                <node id="Progression">
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="DarkRanger"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(9a306e9f-8c7a-45d3-a261-3655769ee34b,,,,AlwaysPrepared);AddSpells(5bb07252-9a62-465a-936f-0ee475b586d1,,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(961f400a-a2e4-4f71-ae52-4de8fbad7eaf,,,,AlwaysPrepared);AddSpells(9a306e9f-8c7a-45d3-a261-3655769ee34b,,,,AlwaysPrepared);AddSpells(5bb07252-9a62-465a-936f-0ee475b586d1,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="c53d8c2c-3dd5-41b6-a7ae-b5a349bffd71"/>
                     <attribute id="UUID" type="guid" value="d96c32c6-e491-4157-a466-205daa25e7ce"/>
                 </node>
@@ -39,8 +34,8 @@
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="DarkRanger"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Assassinate_Initiative;Assassinate_Ambush"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="Assassinate_Initiative;Assassinate_Ambush;DarkRanger_Necrotic_Adept"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(efdc125f-57f5-4ce8-b19c-1703fb27d4a1,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="c53d8c2c-3dd5-41b6-a7ae-b5a349bffd71"/>
                     <attribute id="UUID" type="guid" value="16361e28-85fb-4bd2-b851-87eb34ef32b0"/>
                 </node>
@@ -49,14 +44,24 @@
                     <attribute id="Name" type="LSString" value="DarkRanger"/>
                     <attribute id="PassivesAdded" type="LSString" value="IronMind;Evasion"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(251feefc-4a3c-4d28-8796-32d40bdd5ad6,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="c53d8c2c-3dd5-41b6-a7ae-b5a349bffd71"/>
                     <attribute id="UUID" type="guid" value="95fed7bf-4ade-4df2-bfff-decb5c02277b"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="Name" type="LSString" value="DarkRanger"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(c2ceae8d-aaba-4703-8dbb-fa20300a0987,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="c53d8c2c-3dd5-41b6-a7ae-b5a349bffd71"/>
+                    <attribute id="UUID" type="guid" value="24c1b3b5-a9ee-4242-af35-da4c414f8945"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="DarkRanger"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(7cf87f47-e2f7-4ac5-a0b2-88a3e963d29d);AddSpells(4a23c3c3-e6f7-48a4-a883-8ac2f6a2c97a,,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(b46d5be2-ad9d-468a-9aeb-928b948cf203,,,,AlwaysPrepared);AddSpells(7cf87f47-e2f7-4ac5-a0b2-88a3e963d29d);AddSpells(4a23c3c3-e6f7-48a4-a883-8ac2f6a2c97a,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="c53d8c2c-3dd5-41b6-a7ae-b5a349bffd71"/>
                     <attribute id="UUID" type="guid" value="f26cee71-1b03-4346-a752-fa848d980cdd"/>
                 </node>
@@ -78,9 +83,11 @@
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="13"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Name" type="LSString" value="DarkRanger"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(a134399a-55d2-40b7-ad13-6ca9a74ed9ff,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="c53d8c2c-3dd5-41b6-a7ae-b5a349bffd71"/>
                     <attribute id="UUID" type="guid" value="8f3b2f75-4b4b-420e-beb0-4c857f067977"/>
                 </node>
@@ -89,12 +96,13 @@
                     <attribute id="Name" type="LSString" value="DarkRanger"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectPassives(d0f13dda-eb37-41f5-aea5-2683f0229e2e,1,FavoredEnemy)" />
+                    <attribute id="Selectors" type="LSString" value="" />
                     <attribute id="TableUUID" type="guid" value="c53d8c2c-3dd5-41b6-a7ae-b5a349bffd71"/>
                     <attribute id="UUID" type="guid" value="aaf9e089-739d-4a76-9f9e-747f5e7e81ff"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Name" type="LSString" value="DarkRanger"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
@@ -112,6 +120,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="17"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Name" type="LSString" value="DarkRanger"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
@@ -128,6 +137,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="19"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Name" type="LSString" value="DarkRanger"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
