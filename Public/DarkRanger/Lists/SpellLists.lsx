@@ -5,60 +5,60 @@
     <node id="root">
       <children>
         <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="DarkRanger Level 3" />
-                    <attribute id="Spells" type="LSString" value="Shout_FalseLife;Projectile_Black_Arrow;Target_SneakAttack;Projectile_SneakAttack;Target_GreenFlameBlade" />
-                    <attribute id="UUID" type="guid" value="d67d47b3-fc3a-4722-8cce-38a7340b8d76" />
-				</node>
-        <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="DarkRanger Level 4" />
-                    <attribute id="Spells" type="LSString" value="Projectile_ShadowfellShot;Projectile_Ilmaters_Shot" />
-                    <attribute id="UUID" type="guid" value="9a306e9f-8c7a-45d3-a261-3655769ee34b" />
-        </node>s
-        <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="DarkRanger Level 5" />
-                    <attribute id="Spells" type="LSString" value="Target_ValkranaCorpseGrenade" />
-                    <attribute id="UUID" type="guid" value="961f400a-a2e4-4f71-ae52-4de8fbad7eaf" />
-                </node>
-        <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="DarkRanger Level 6" />
-                    <attribute id="Spells" type="LSString" value="Target_AnimateDead;Projectile_Necrotic_Shot" />
-                    <attribute id="UUID" type="guid" value="efdc125f-57f5-4ce8-b19c-1703fb27d4a1" />
+          <attribute id="Comment" type="LSString" value="DarkRanger Level 3" />
+          <attribute id="Spells" type="LSString" value="Shout_FalseLife;Projectile_Black_Arrow;Target_SneakAttack;Projectile_SneakAttack;Target_GreenFlameBlade" />
+          <attribute id="UUID" type="guid" value="d67d47b3-fc3a-4722-8cce-38a7340b8d76" />
         </node>
         <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="DarkRanger Level 7" />
-                    <attribute id="Spells" type="LSString" value="Projectile_VampiricShot" />
-                    <attribute id="UUID" type="guid" value="251feefc-4a3c-4d28-8796-32d40bdd5ad6" />
-                </node>
+          <attribute id="Comment" type="LSString" value="DarkRanger Level 4" />
+          <attribute id="Spells" type="LSString" value="Projectile_ShadowfellShot;Projectile_Ilmaters_Shot" />
+          <attribute id="UUID" type="guid" value="9a306e9f-8c7a-45d3-a261-3655769ee34b" />
+        </node>s
         <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="DarkRanger Level 8" />
-                    <attribute id="Spells" type="LSString" value="" />
-                    <attribute id="UUID" type="guid" value="c2ceae8d-aaba-4703-8dbb-fa20300a0987" />
-				</node>
+          <attribute id="Comment" type="LSString" value="DarkRanger Level 5" />
+          <attribute id="Spells" type="LSString" value="Target_ValkranaCorpseGrenade;Target_MistyStep" />
+          <attribute id="UUID" type="guid" value="961f400a-a2e4-4f71-ae52-4de8fbad7eaf" />
+        </node>
         <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="DarkRanger Level 9" />
-                    <attribute id="Spells" type="LSString" value="Target_ValkranaSkeleport" />
-                    <attribute id="UUID" type="guid" value="b46d5be2-ad9d-468a-9aeb-928b948cf203" />
-				</node>
+          <attribute id="Comment" type="LSString" value="DarkRanger Level 6" />
+          <attribute id="Spells" type="LSString" value="Target_AnimateDead;Projectile_Necrotic_Shot" />
+          <attribute id="UUID" type="guid" value="efdc125f-57f5-4ce8-b19c-1703fb27d4a1" />
+        </node>
         <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="DarkRanger Level 10" />
-                    <attribute id="Spells" type="LSString" value="" />
-                    <attribute id="UUID" type="guid" value="f55cc314-baa3-4eed-8e8a-d26a160941b1" />
-				</node>
+          <attribute id="Comment" type="LSString" value="DarkRanger Level 7" />
+          <attribute id="Spells" type="LSString" value="Projectile_VampiricShot" />
+          <attribute id="UUID" type="guid" value="251feefc-4a3c-4d28-8796-32d40bdd5ad6" />
+        </node>
         <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="DarkRanger Level 11" />
-                    <attribute id="Spells" type="LSString" value="" />
-                    <attribute id="UUID" type="guid" value="bd539f44-3551-48fe-b02c-e0782d5caae7" />
-				</node>
+          <attribute id="Comment" type="LSString" value="DarkRanger Level 8" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="c2ceae8d-aaba-4703-8dbb-fa20300a0987" />
+        </node>
         <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="DarkRanger Level 12" />
-                    <attribute id="Spells" type="LSString" value="" />
-                    <attribute id="UUID" type="guid" value="cfa68847-6dd6-4ab9-8ba2-9ee821930ab5" />
-				</node>
+          <attribute id="Comment" type="LSString" value="DarkRanger Level 9" />
+          <attribute id="Spells" type="LSString" value="Target_ValkranaSkeleport" />
+          <attribute id="UUID" type="guid" value="b46d5be2-ad9d-468a-9aeb-928b948cf203" />
+        </node>
         <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="DarkRanger Level 13" />
-                    <attribute id="Spells" type="LSString" value="Shout_ValkranaNegativeEnergyField" />
-                    <attribute id="UUID" type="guid" value="a134399a-55d2-40b7-ad13-6ca9a74ed9ff" />
-				</node>
+          <attribute id="Comment" type="LSString" value="DarkRanger Level 10" />
+          <attribute id="Spells" type="LSString" value="Target_FlameArrows" />
+          <attribute id="UUID" type="guid" value="f55cc314-baa3-4eed-8e8a-d26a160941b1" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="DarkRanger Level 11" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="bd539f44-3551-48fe-b02c-e0782d5caae7" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="DarkRanger Level 12" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="cfa68847-6dd6-4ab9-8ba2-9ee821930ab5" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="DarkRanger Level 13" />
+          <attribute id="Spells" type="LSString" value="Shout_ValkranaNegativeEnergyField;Shout_ShadowOfMoil" />
+          <attribute id="UUID" type="guid" value="a134399a-55d2-40b7-ad13-6ca9a74ed9ff" />
+        </node>
       </children>
     </node>
   </region>
