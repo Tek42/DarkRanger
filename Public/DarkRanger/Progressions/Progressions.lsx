@@ -66,6 +66,14 @@
                     <attribute id="UUID" type="guid" value="f26cee71-1b03-4346-a752-fa848d980cdd"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Name" type="LSString" value="DarkRanger"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(f55cc314-baa3-4eed-8e8a-d26a160941b1,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="c53d8c2c-3dd5-41b6-a7ae-b5a349bffd71"/>
+                    <attribute id="UUID" type="guid" value="f3806e85-da62-4056-b29e-6d133ec98972"/>
+                </node>
+                <node id="Progression">
                     <attribute id="Level" type="uint8" value="11"/>
                     <attribute id="Name" type="LSString" value="DarkRanger"/>
                     <attribute id="PassivesAdded" type="LSString" value="StalkersFlurry"/>
