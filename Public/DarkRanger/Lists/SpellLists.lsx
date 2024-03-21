@@ -21,7 +21,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="DarkRanger Level 6" />
-          <attribute id="Spells" type="LSString" value="Target_AnimateDead;Projectile_Necrotic_Shot" />
+          <attribute id="Spells" type="LSString" value="Projectile_Necrotic_Shot" />
           <attribute id="UUID" type="guid" value="efdc125f-57f5-4ce8-b19c-1703fb27d4a1" />
         </node>
         <node id="SpellList">
@@ -36,7 +36,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="DarkRanger Level 9" />
-          <attribute id="Spells" type="LSString" value="Target_ValkranaSkeleport" />
+          <attribute id="Spells" type="LSString" value="Target_AnimateDead;Target_ValkranaSkeleport" />
           <attribute id="UUID" type="guid" value="b46d5be2-ad9d-468a-9aeb-928b948cf203" />
         </node>
         <node id="SpellList">

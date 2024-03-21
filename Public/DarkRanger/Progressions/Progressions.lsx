@@ -7,7 +7,8 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="DarkRanger"/>
-                    <attribute id="PassivesAdded" type="LSString" value="DreadAmbusher;SuperiorDarkvision;DR_BLACKARROWEFFECT"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SneakAttack_Charge,1,0)"/>
+                    <attribute id="PassivesAdded" type="LSString" value="DreadAmbusher;SuperiorDarkvision;DR_BLACKARROWEFFECT;SneakAttack_Unlock"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(d67d47b3-fc3a-4722-8cce-38a7340b8d76,,,,AlwaysPrepared);AddSpells(5ea6abd7-3e02-4e8d-9220-8a400e0019a4,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="c53d8c2c-3dd5-41b6-a7ae-b5a349bffd71"/>
@@ -34,7 +35,7 @@
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="DarkRanger"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Assassinate_Initiative;Assassinate_Ambush;DarkRanger_Necrotic_Adept"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Assassinate_Initiative;Assassinate_Ambush;Assassinate_Resource;DarkRanger_Necrotic_Adept"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(efdc125f-57f5-4ce8-b19c-1703fb27d4a1,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="c53d8c2c-3dd5-41b6-a7ae-b5a349bffd71"/>
                     <attribute id="UUID" type="guid" value="16361e28-85fb-4bd2-b851-87eb34ef32b0"/>
