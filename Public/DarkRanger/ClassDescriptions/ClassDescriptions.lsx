@@ -10,7 +10,7 @@
             <attribute id="Description" type="TranslatedString" handle="ha2f126dee45940728a89fcfaa4eeded81c57" version="1" />
             <attribute id="LearningStrategy" type="uint8" value="1" />
             <attribute id="Name" type="FixedString" value="DarkRanger" />
-            <attribute id="ParentGuid" type="guid" value="8f068974-ed32-43fc-a9d9-028be1c01a9c" />
+            <attribute id="ParentGuid" type="guid" value="36be18ba-23db-4dff-bfa6-ae105ce43144" />
             <attribute id="PrimaryAbility" type="uint8" value="2" />
             <attribute id="ProgressionTableUUID" type="guid" value="c53d8c2c-3dd5-41b6-a7ae-b5a349bffd71" />
             <attribute id="SoundClassType" type="FixedString" value="Ranger" />

@@ -28,6 +28,16 @@
                     <attribute id="Name" type="FixedString" value="DarkRanger"/>
                     <attribute id="UUID" type="guid" value="fb3b30b9-e37d-48fa-ab0a-57a2efd18c65"/>
                 </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="1d6"/>
+                    <attribute id="Level11" type="LSString" value="6d6"/>
+                    <attribute id="Level3" type="LSString" value="2d6"/>
+                    <attribute id="Level5" type="LSString" value="3d6"/>
+                    <attribute id="Level7" type="LSString" value="4d6"/>
+                    <attribute id="Level9" type="LSString" value="5d6"/>
+                    <attribute id="Name" type="FixedString" value="DR_SneakAttack"/>
+                    <attribute id="UUID" type="guid" value="6b68f3bc-47d4-4caf-884b-7a866134b7cc"/>
+                </node>
             </children>
         </node>
     </region>
